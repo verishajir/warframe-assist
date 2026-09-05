@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Warframe.Core</RootNamespace>
+    <AssemblyName>Warframe.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
